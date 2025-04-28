@@ -1,0 +1,10 @@
+
+1. A forrás Konzolos project megnyitása,  konzolos class-át használjuk a WPF-ben, Networkhelper
+2. felül grid, túra útvonalak adatai: út neve comboboxban
+3. ha kiválasztunk egy útvonalat, összes adata label-ekben
+4. a vezetés szöveggel: 0 - van vezetés, -1 : nincs vezetés
+5. alul új jelentkezés felvitele, gombra
+a kiválasztott út id-jét vigye fel, és nevet, emailt, telefont
+6. hibakiírás gomb alatt:
+- hiányzó név, hiányzó telefonszám, hiányzó életkor, (email nem kötelező)
+- az életkorhoz szám fogadható el
